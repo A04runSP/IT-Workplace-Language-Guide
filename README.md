@@ -2,6 +2,8 @@
 
 > **Understand what IT people say — and what they actually mean.**
 
+🌐 **[Live Website](https://it-workplace-language-guide.netlify.app/)**
+
 The **IT Workplace Language Guide** is a practical reference for people entering or working in IT environments.
 
 In IT workplaces, people don't always communicate using direct technical language. A simple sentence like:
