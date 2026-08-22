@@ -2,6 +2,8 @@
 
 > **Understand what IT people say — and what they actually mean.**
 
+**Project Date:** 20-08-26
+
 🌐 **[Live Website](https://it-workplace-language-guide.netlify.app/)**
 
 The **IT Workplace Language Guide** is a practical reference for people entering or working in IT environments.
@@ -175,3 +177,4 @@ Simply open:
 
 ```text
 index.html
+```
